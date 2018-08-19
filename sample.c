@@ -8,6 +8,7 @@ char A()
 int main()
 {
     printf("%lu \t %lu \t%lu", sizeof( A() ),sizeof( &A )),sizeof( A );
+    printf("Thank you");
     return 0;
 }
 
