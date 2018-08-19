@@ -1,3 +1,4 @@
 # myHelloWorld
 my hello world project
-this is sample first line
+This is sample first line
+second line
